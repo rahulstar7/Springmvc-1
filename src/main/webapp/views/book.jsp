@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>www.biikadit.com</title>
 </head>
-<body>
-  <h2>Book Data</h2>
+<body bgcolor=lightpink>
+ <marquee> <h2>Book Data</h2></marquee>
   Book Id : ${book.bookId }
   <br/>BooK Name: ${book.bookName}
   <br/>Book Price: ${book.bookPrice }
