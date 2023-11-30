@@ -16,8 +16,9 @@ public class BookController {
 	@GetMapping("/getBookData")
 	public String getBookData(Model model) {
 		
-		Book bookdata=new Book(111,"Spring",450.00);
-		model.addAttribute("book", bookdata);
+		Book bookdata=new Book(001,"Java SPring Boot",999.00);
+		
+		
 		return "book";
 	}
 	
