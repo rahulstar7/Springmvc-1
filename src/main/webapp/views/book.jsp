@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor="lightblue">
   <h2>Book Data</h2>
   Book Id : ${book.bookId }
   <br/>BooK Name: ${book.bookName}
